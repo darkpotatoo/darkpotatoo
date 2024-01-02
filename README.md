@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi! I'm Kate!
+I'm known as **darkpotatoo** online. I've been programming for about four years.
+
+I mostly use **skript**, and english-based minecraft server plugin that allows you to write code for almost anything imaginable.
 
 <!--
 **darkpotatoo/darkpotatoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
