@@ -1,5 +1,7 @@
+
 # Hi
-tbd
+![darkpotatoo's Stats](https://github-readme-stats.vercel.app/api?username=darkpotatoo&theme=jolly&show_icons=true&hide_border=false&count_private=true)
+
 <!--
 **darkpotatoo/darkpotatoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
