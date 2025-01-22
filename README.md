@@ -1,5 +1,4 @@
 
-# Hi
 ![darkpotatoo's Stats](https://github-readme-stats.vercel.app/api?username=darkpotatoo&theme=jolly&show_icons=true&hide_border=false&count_private=true)
 
 <!--
