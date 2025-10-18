@@ -1,2 +1,2 @@
-<p><img align="center" src="(https://github-readme-stats.vercel.app/api?username=darkpotatoo&theme=ambient_gradient&show_icons=true&hide_border=false&count_private=true)"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=darkpotatoo&theme=ambient_gradient&show_icons=true&hide_border=false&count_private=true"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkpotatoo&show_icons=true&locale=en&theme=ambient_gradient"/></p>
